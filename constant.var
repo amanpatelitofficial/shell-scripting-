@@ -1,0 +1,8 @@
+# varible whos value can not be changed 
+
+#!/bin/bash
+ 
+# constant variable
+readonly COLLAGE="CSJMU"
+
+echo "my collage name is $COLLAGE"

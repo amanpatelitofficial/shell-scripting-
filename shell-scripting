@@ -1,0 +1,20 @@
+### how to check which shell you are using.
+    # echo $0
+
+### how to check shell list
+    # cat /etc/shells
+
+### 1st shell-script
+
+   # vim 1st.sh
+     #!/bin/bash
+       echo " Hello World "
+
+### how to run a shell-script
+    # ./1st.sh
+    # bash 1st.sh 
+
+
+
+
+
