@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "choice an option"
+echo "choose an option"
 echo "a=view current file"
 echo "b=view date"
 
